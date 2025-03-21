@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My name is Patres, and I'm a coder who enjoys working with Python and building Discord bots.  <br>Currently working on AccessSync, a project focused on seamless access management.</p>
+<p align="center">Hi, I'm Patres, a passionate coder with a focus on Python and building Discord bots. Currently, I'm working on AccessSync, a project dedicated to creating seamless access management solutions.</p>
 
 ###
 
