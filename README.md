@@ -15,9 +15,6 @@
 <p align="center">🐍 Python | 🤖 Discord Bot Development  <br>🌐 Web Integrations | 🔐 Authentication Systems  
 </p>
 
-###
-
-<h2 align="center">What i code with</h2>
 
 ###
 
@@ -25,12 +22,14 @@
 
 ###
 
-<p align="center"> 📧 | zofka.pat@proton.me 
-</p>
-<p align="center"> 📧 | zofka.pat@proton.me 
-</p>
+<p align="center">Got questions or looking to collaborate? Reach out to me!  
+Discord: rpatres | Email: zofka.pat@proton.me</p>
 
+###
 
+<h2 align="center">What i code with</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
