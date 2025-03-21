@@ -8,16 +8,16 @@
 
 ###
 
-<h2 align="left">Skills & Tech</h2>
+<h2 align="center">Skills & Tech</h2>
 
 ###
 
-<p align="left">🐍 Python | 🤖 Discord Bot Development  <br>🌐 Web Integrations | 🔐 Authentication Systems  
+<p align="center">🐍 Python | 🤖 Discord Bot Development  <br>🌐 Web Integrations | 🔐 Authentication Systems  
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">What i code with</h2>
 
 ###
 
