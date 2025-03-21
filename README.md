@@ -8,11 +8,12 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Skills & Tech</h2>
 
 ###
 
-<p align="left">✨ Developer focused on automation, web integrations, and authentication systems.  <br>🎯 Currently building AccessSync for seamless access management.</p>
+<p align="left">🐍 Python | 🤖 Discord Bot Development  <br>🌐 Web Integrations | 🔐 Authentication Systems  
+</p>
 
 ###
 
