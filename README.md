@@ -21,6 +21,17 @@
 
 ###
 
+<h2 align="center">Contact me</h2>
+
+###
+
+<p align="center"> 📧 | zofka.pat@proton.me 
+</p>
+<p align="center"> 📧 | zofka.pat@proton.me 
+</p>
+
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
