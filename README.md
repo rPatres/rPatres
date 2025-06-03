@@ -41,8 +41,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/rPatres/rPatres/output/snake.svg" alt="Snake animation" />
-
-###
+##
